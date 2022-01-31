@@ -1,0 +1,26 @@
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.exe
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.deps.json
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.dll
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.pdb
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.dll
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.pdb
+C:\Users\HP\OneDrive\Documents\csharp-debugging-example\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.exe
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.deps.json
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.dll
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\bin\Debug\netcoreapp3.1\Csharp_vezbanje.pdb
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.dll
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.pdb
+C:\Users\HP\OneDrive\Desktop\Faks\New folder\SI\Softversko vezbe\Csharp_vezbanje\Csharp_vezbanje\obj\Debug\netcoreapp3.1\Csharp_vezbanje.genruntimeconfig.cache
